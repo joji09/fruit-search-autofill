@@ -4,10 +4,6 @@
   padding: 0;
 }
 
-:focus {
- /* TODO */
-}
-
 body {
 background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(27,9,121,1) 41%, rgba(0,212,255,1) 82%);
@@ -37,26 +33,13 @@ input {
   color: grey;
 }
 
-.search-container input,
-.search-container .suggestions {
-  /* TODO */
-}
-.search-container input {
- /* TODO */
-}
-.search-container .suggestions {
-
-}
-
 ul {
   width: 100%;
   border-top: 1px solid #999;
   padding: 15px 10px;
 }
 
-ul.has-suggestions {
-  /* TODO */
-}
+
 ul li {
   list-style: none;
   border-radius: 3px;
